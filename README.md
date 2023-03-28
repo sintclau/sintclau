@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a future project<br>🌱 I’m currently learning Java<br>💬 Ask me about Docker, Web Development, Offensive Cybersecurity<br>🖥️ Fun fact: I like to host my own private services
+🔭 I’m currently working on a future project<br>🌱 I’m currently learning Java<br>💬 Ask me about Docker, Web Development, Offensive Cybersecurity<br>🖥️ Fun fact: I like to host my own private services<br>🏆 Achievements: 2nd place iTEC-CTF 2022
 
 
 ## 🌐 Socials:
