@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on a future project<br>🌱 I’m currently learning Java<br>💬 Ask me about Docker, Web Development, Offensive Cybersecurity<br>🖥️ Fun fact: I like to host my own private services
-
+# 📄 About Me:
+Since I can remember, technology has been my greatest passion. Ever since I was 5 years old, I've been fascinated by gadgets, computers, and everything related to the digital world. 
+With each new discovery and experience, my passion grew, driving me to explore Web Development, VB.NET, Python, App Development with Java and Flutter and a bit of DevOps with Docker.
+I excelled in Cybersecurity competitions, securing second place in iTEC 2022. In May 2023, I won the “Technology 4 Health” category in the HackTM contest with Bogdan Barbu.
+Now, I'm actively engaged in the RoboDojo robotics team, contributing my skills and collaborating with like-minded individuals.
+My thirst for knowledge and passion for technology continue to drive me forward, eager to see what the future holds.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/264839050198777856) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/spiescuclaudiu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clau.sp17) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/clawsvg) 
